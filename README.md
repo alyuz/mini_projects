@@ -1,3 +1,3 @@
-#mini_projects
+# mini_projects
 
 Estes são pequenos projetos em python como mini-games, controles de estoque, etc...
