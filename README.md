@@ -1,6 +1,6 @@
 # 🚀 Mini Projetos em Python 
 
-Bem-vindo ao meu repositório de mini projetos em Python! Este espaço reúne pequenos projetos práticos, como jogos simples e sistemas de gestão, criados com o objetivo de consolidar conceitos fundamentais e demonstrar habilidades essenciais para projetos mais avançados.
+👋🏼 Bem-vindo ao meu repositório de mini projetos em Python! Este espaço reúne pequenos projetos práticos, como jogos simples e sistemas de gestão, criados com o objetivo de consolidar conceitos fundamentais e demonstrar habilidades essenciais para projetos mais avançados.
 
 🔧 O que você vai encontrar:
 <b>Mini games:</b> Projetos para explorar lógica de programação e criação de interfaces simples.
